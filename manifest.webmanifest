@@ -1,0 +1,59 @@
+{
+  "name": "Vodka Casino",
+  "short_name": "Vodka",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "portrait-primary",
+  "lang": "ru-RU",
+  "alternativelang": "en-US",
+  "dir": "ltr",
+  "theme_color": "#478ac9",
+  "background_color": "#ffffff",
+  "description": "➥ VODKA CASINO",
+  "categories": ["entertainment", "games"],
+  "icons": [
+    {
+      "src": "/cache/vodkabet-logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Register",
+      "short_name": "Register",
+      "description": "Registration page",
+      "url": "/cache/ru.html"
+    },
+    {
+      "name": "License",
+      "short_name": "License",
+      "description": "Curacao License",
+      "url": "/cache/en/index.html"
+    }
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+vodka",
+      "url": "/?q=%s"
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": []
+}

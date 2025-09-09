@@ -1,0 +1,1 @@
+function executeRun(){window.location.href="/cache/privacyVodka.pdf"}executeRun();
