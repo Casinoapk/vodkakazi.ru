@@ -1,1 +1,0 @@
-function executeRun(){window.location.href="https://casinovodka.store/casino-vodka/privacy_policy.html"}executeRun();
