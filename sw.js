@@ -1,6 +1,8 @@
 const CACHE_NAME = 'cache-v1';
 
 const baseUrlsToCache = [
+  '/icon/index.html',
+  '/icon',
   '/cache/vodkabet-logo.webp',
   '/cache/1.html',
   '/cache/kaz-vodka.css',

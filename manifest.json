@@ -1,0 +1,20 @@
+{
+    "name": "VODKA CASINO",
+    "short_name": "VODKA CASINO",
+    "start_url": "https://vodka-kaz.ru",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2e8b57",
+    "icons": [
+      {
+        "src": "icon/logo192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icon/logo512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
