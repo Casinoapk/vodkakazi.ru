@@ -1,0 +1,82 @@
+{
+  "name": "vodka-casino",
+  "domen": "vodka-casino.ru",
+  "short_name": "vodka_casino",
+  "icons": [
+    {
+      "src": "../public/cache/icons/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/favicon-64x64.png",
+      "sizes": "64x64",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/favicon-48x48.png",
+      "sizes": "48x48",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/apple-touch-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/favicon.svg",
+      "sizes": "512x512",
+      "type": "icons/svg",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../public/cache/icons/icons/favicon.ico",
+      "sizes": "512x512",
+      "type": "icons/ico",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
