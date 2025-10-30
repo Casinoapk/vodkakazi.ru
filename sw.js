@@ -1,5 +1,5 @@
-const CACHE_NAME = 'my-cache-v2';
-const DYNAMIC_CACHE = 'dynamic-cache-v2';
+const CACHE_NAME = 'my-cache-v1';
+const DYNAMIC_CACHE = 'dynamic-cache-v1';
 const urlsToCache = [
   '/styles.min.css',
   '/',
@@ -37,4 +37,3 @@ self.addEventListener('fetch', event => {
       .then(response => response || fetch(event.request))
   );
 });
-
